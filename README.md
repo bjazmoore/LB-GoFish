@@ -48,6 +48,12 @@ The AI uses basic memory:
 
 ---
 
+## 🖼️ Screenshot
+
+<img width="705" height="492" alt="gofish" src="https://github.com/user-attachments/assets/5fe86271-a535-4658-8ec4-e7b4df1ca234" />
+
+---
+
 ## 🚀 Future Improvements
 
 Here are some enhancements that could take this project to the next level:
