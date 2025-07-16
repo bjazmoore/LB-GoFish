@@ -46,8 +46,8 @@ The AI uses basic memory:
 - Game currently depends on embedded graphics code for drawing cards, but no external images are used yet.
 
 > **Note:** You may optionally add custom card graphics. This would involve loading image files and adjusting the drawing code.
-
-**Liberty BASIC GoFish** will run in **Just BASIC** with a small modification.  There is a DLL call to remove the scrollbars on the graphics window at line 698.  Comment out the DLL call to run in Just BASIC.
+>
+> **Note:** **Liberty BASIC GoFish** will run in **Just BASIC** with a small modification.  There is a DLL call to remove the scrollbars on the graphics window at line 698.  Comment out the DLL call to run in Just BASIC.
 
 ---
 
