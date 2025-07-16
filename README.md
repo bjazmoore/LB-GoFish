@@ -1,6 +1,6 @@
 # Go Fish — Liberty BASIC Edition
 
-A playable version of **Go Fish** implemented in Liberty BASIC, featuring a graphical interface, a state-machine game engine, and an AI opponent with simple memory-based strategies.
+A single person playable version of **Go Fish** implemented in Liberty BASIC, featuring a graphical interface, a state-machine game engine, and an AI opponent with simple memory-based strategies.
 
 ---
 
