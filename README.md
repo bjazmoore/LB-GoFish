@@ -46,11 +46,13 @@ The AI uses basic memory:
 
 > **Note:** You may optionally add custom card graphics. This would involve loading image files and adjusting the drawing code.
 
+**Liberty BASIC GoFish** will run in Just BASIC with a small modification.  There is a DLL call to remove the scrollbars on the graphics window at line 698.  Comment out the DLL call to run in Just BASIC.
+
 ---
 
 ## 🖼️ Screenshot
 
-<img width="705" height="492" alt="gofish" src="https://github.com/user-attachments/assets/5fe86271-a535-4658-8ec4-e7b4df1ca234" />
+<img width="705" height="492" alt="gofish" src="https://github.com/user-attachments/assets/cb0d7ec8-a392-417c-99ba-beff5b30a834" />
 
 ---
 
