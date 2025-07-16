@@ -35,6 +35,7 @@ The AI uses basic memory:
 - Prefers to ask for ranks it holds multiple cards of.
 - Tries not to repeat failed requests unnecessarily.
 - Favors ranks it recently fished from the deck.
+- It is a challenging opponent.
 
 ---
 
@@ -81,7 +82,7 @@ Here are some enhancements that could take this project to the next level:
 
 ## 📝 License
 
-This game is provided as open source. Feel free to fork, modify, or contribute improvements.
+This game is provided as open source using the MIT license. Feel free to fork, modify, or contribute improvements.
 
 Happy Fishing!
 
